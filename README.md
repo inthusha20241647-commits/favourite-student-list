@@ -10,7 +10,7 @@ Favourite Student List is a simple and interactive web application built using R
 
 ### 🖥️ Student List Page
 
-![Student List](./src/images/student-list.png)
+![Student List](./src/images/student-list-page.png)
 
 ### ⭐ Favourites Page
 

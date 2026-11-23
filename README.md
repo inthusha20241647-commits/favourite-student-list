@@ -44,9 +44,9 @@ Favourite Student List is a simple and interactive web application built using R
 favourite-student-list/
 │
 ├── public/
-├── screenshots/
+├── images/
 │   ├── student-list.png
-│   └── favourites.png
+│   └── favourite-student-list.png
 ├── src/
 │   ├── context/
 │   │   └── StudentContext.js
